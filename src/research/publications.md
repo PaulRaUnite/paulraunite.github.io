@@ -1,7 +1,7 @@
-# Scientific publications
+# Publications
+(in reverse chronological order)
 
-## Articles
-In reverse chronological order:
+## Articles in international conferences
 
 - Tokariev, P., Faqrizal, I., Deantoni, J. (2025). **Understandable Timing Analysis of Service-Oriented Architecture Components in Software-Defined Vehicle**. In: Ermolayev, V., et al. Information and Communication Technologies in Education, Research, and Industrial Applications. ICTERI 2025. Communications in Computer and Information Science, vol 2763. Springer, Cham. https://doi.org/10.1007/978-3-032-10477-9_9
     - [HAL link](https://inria.hal.science/hal-05224373)
